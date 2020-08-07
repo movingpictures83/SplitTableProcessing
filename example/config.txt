@@ -1,0 +1,2 @@
+Prefix plugins/SplitTableProcessing/example
+Plugin SplitTableProcessing inputfile tax.summary outputfile tax
